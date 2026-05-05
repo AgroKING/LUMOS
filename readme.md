@@ -7,4 +7,4 @@
 - eigenvalues
 
 ## Python bindings
-_Using python 11 to wrap objects with operator overloading_ 
+_Using pybind 11 to wrap objects with operator overloading_ 
