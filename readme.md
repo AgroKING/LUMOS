@@ -1,4 +1,4 @@
-## C++ Implementaion 
+## C++ Implementation 
 - vectors
 - matrices
 - dot product,
