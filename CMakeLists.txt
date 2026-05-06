@@ -7,6 +7,7 @@
 
 cmake_minimum_required(VERSION 3.15...4.1)
 project(LUMOS)
+set(CMAKE_CXX_STANDARD 20)
 add_executable(LUMOS hello.cpp
         include/vector.h
         include/matrix.h
@@ -20,6 +21,6 @@ add_executable(LUMOS hello.cpp
         src/decomposition.cpp
         src/eigen.cpp)
 target_include_directories(LUMOS PUBLIC include)
-set(CMAKE_CXX_STANDARD 20)
+
 
 
