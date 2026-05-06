@@ -7,7 +7,7 @@
 
 cmake_minimum_required(VERSION 3.15...4.1)
 project(LUMOS)
-add_executable(LUMOS
+add_executable(LUMOS hello.cpp
         include/vector.h
         include/matrix.h
         include/operations.h
