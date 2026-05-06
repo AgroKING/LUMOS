@@ -2,7 +2,7 @@
 // Created by agp on 5/6/26.
 //
 #include "vector.h"
-
+using namespace std;
 vector<double> vector_add(vector<double> a, vector<double> b)
 {
     vector<double> c(a);
