@@ -19,6 +19,7 @@ add_executable(LUMOS
         src/operations.cpp
         src/decomposition.cpp
         src/eigen.cpp)
+target_include_directories(LUMOS PUBLIC include)
 set(CMAKE_CXX_STANDARD 20)
 
 
