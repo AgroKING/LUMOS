@@ -5,4 +5,5 @@
 #ifndef LUMOS_EXCEPTIONS_H
 #define LUMOS_EXCEPTIONS_H
 
+
 #endif //LUMOS_EXCEPTIONS_H
